@@ -55,9 +55,3 @@ I have experience in both **academic research and hospital laboratory environmen
 * DNA extraction and molecular techniques
 * Real-time PCR and FISH
 * Scientific communication and teaching
-
----
-
-📫 **Contact:** [xeneka@gmail.com](mailto:xeneka@gmail.com)
-
-⭐ Feel free to explore my repositories and follow my work in biology, bioinformatics, biodiversity, and data analysis.
